@@ -40,9 +40,9 @@ Available options in the client panel:
 
 - - - - - -
 
-<p class="callout warning">WHMCS minimal version: 8 +  
-Synology DMS minimal version: 6+</p>
+WHMCS minimal version: 8 +  
+Synology DMS minimal version: 6+
 
-<div id="bkmrk--0"></div><div id="bkmrk--1"></div>[![image-1660038899732.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660038899732.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660038899732.png)
+[![image-1660038899732.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660038899732.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660038899732.png)
 
 [![image-1660038909079.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660038909079.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660038909079.png)
