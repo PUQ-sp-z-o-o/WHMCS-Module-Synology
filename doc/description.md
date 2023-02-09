@@ -4,10 +4,9 @@
 
 The module gives the company the ability to offer user accounts on Synology devices. Users can have multiple accounts. Accounts may differ with parameters defined in groups.
 
-<p class="callout info">The module requires an existing, fully deployed Synology machine with properly configured groups and other options (more information later in the manual).</p>
+>The module requires an existing, fully deployed Synology machine with properly configured groups and other options (more information later in the manual).
 
-<p class="callout info">The module does not support the installation or configuration of DSM on Synology machines in any way.</p>
-
+>The module does not support the installation or configuration of DSM on Synology machines in any way.
 Functions:
 
 - Auto create and deploy account on Synology
@@ -38,9 +37,9 @@ Available options in the client panel:
 
 - - - - - -
 
-<p class="callout warning">WHMCS minimal version: 8 +  
-Synology DMS minimal version: 6+</p>
+>WHMCS minimal version: 8 +  
+Synology DMS minimal version: 6+
 
-<div id="bkmrk--0"></div><div id="bkmrk--1"></div>[![image-1660038899732.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660038899732.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660038899732.png)
+[![image-1660038899732.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660038899732.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660038899732.png)
 
 [![image-1660038909079.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660038909079.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660038909079.png)
