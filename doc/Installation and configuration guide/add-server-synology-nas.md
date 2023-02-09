@@ -1,0 +1,20 @@
+# Add server (Synology NAS)
+
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-synology) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Synology/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Add a new server to the system WHMCS.
+
+```
+System Settings->Servers->Add New Server
+```
+
+- Enter the correct **Name** and **Hostname**
+
+[![image-1660041299469.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660041299469.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660041299469.png)
+
+- In the **Server Details** section, select the "**PUQ Synology**" module and enter the correct **username** and **password** for the **Synology NAS web interface**.
+- To check, click the **"Test connection"** button
+
+[![image-1660041337777.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660041337777.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660041337777.png)
+
+<p class="callout warning">WARNING: **ACCESS HASH** field Used to store the access key to the server and is updated automatically.</p>
