@@ -16,7 +16,7 @@ PHP 7.4
 wget http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Synology/php74/PUQ_WHMCS-Synology-latest.zip
 ```
 
-<p class="callout info">All versions are available via link: [http://download.puqcloud.com/WHMCS/servers/PUQ\_WHMCS-Synology/](http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Synology/)</p>
+>All versions are available via link: [http://download.puqcloud.com/WHMCS/servers/PUQ\_WHMCS-Synology/](http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Synology/)
 
 ##### 2. Unzip the archive with the module.
 
@@ -41,7 +41,7 @@ System Settings->Servers->Add New Server
 
 [![image-1660041337777.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660041337777.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660041337777.png)
 
-<p class="callout warning">WARNING: **ACCESS HASH** field Used to store the access key to the server and is updated automatically.</p>
+>WARNING: **ACCESS HASH** field Used to store the access key to the server and is updated automatically.
 
 ##### 5. Create a new Products/Services
 
