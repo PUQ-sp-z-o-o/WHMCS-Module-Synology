@@ -1,0 +1,11 @@
+# Disk statistics
+
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-synology) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Synology/) | [FAQ](https://faq.puqcloud.com/)
+
+Client can check the data usage statistics in the menu item **"Used space statistics"**
+
+[![image-1660042692052.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660042692052.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660042692052.png)
+
+##### Disk Usage Charts
+
+[![image-1660042718979.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660042718979.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660042718979.png)
