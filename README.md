@@ -3,7 +3,7 @@ The module gives the company the ability to offer user accounts on Synology devi
 The module requires an existing, fully deployed Synology machine with properly configured groups and other options (more information later in the manual)
 # Description
 
-#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-synology) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Synology/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-synology) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Synology/) | [FAQ](https://faq.puqcloud.com/)
 
 The module gives the company the ability to offer user accounts on Synology devices. Users can have multiple accounts. Accounts may differ with parameters defined in groups.
 
