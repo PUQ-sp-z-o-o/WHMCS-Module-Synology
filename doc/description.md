@@ -7,6 +7,7 @@ The module gives the company the ability to offer user accounts on Synology devi
 >The module requires an existing, fully deployed Synology machine with properly configured groups and other options (more information later in the manual).
 
 >The module does not support the installation or configuration of DSM on Synology machines in any way.
+
 Functions:
 
 - Auto create and deploy account on Synology
@@ -38,8 +39,10 @@ Available options in the client panel:
 - - - - - -
 
 >WHMCS minimal version: 8 +  
-Synology DMS minimal version: 6+
+Synology DMS  v6+/v7
 
-[![image-1660038899732.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660038899732.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660038899732.png)
+![image](https://user-images.githubusercontent.com/81689153/223086275-df286e76-57c7-47a9-95db-0b6937969aee.png)
 
-[![image-1660038909079.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660038909079.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660038909079.png)
+![image](https://user-images.githubusercontent.com/81689153/223086297-38449102-fd60-4104-bf09-7ee4b622c8ac.png)
+
+![image](https://user-images.githubusercontent.com/81689153/223086319-b1f188d6-40b2-4bfa-a98e-a65a6ed6bbbb.png)
