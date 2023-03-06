@@ -10,6 +10,7 @@ The module gives the company the ability to offer user accounts on Synology devi
 >The module requires an existing, fully deployed Synology machine with properly configured groups and other options (more information later in the manual).
 
 >The module does not support the installation or configuration of DSM on Synology machines in any way.
+
 Functions:
 
 - Auto create and deploy account on Synology
