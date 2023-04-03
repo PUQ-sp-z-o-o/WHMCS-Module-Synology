@@ -2,6 +2,11 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-synology) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Synology/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.2.1 Released 02-04-2023
+1. Adaptation for Synology DSM 7.1.1
+
+- - - - - -
+
 ### v1.2 Released 05-03-2023
 1. Support for PHP 8.1 and PHP 7.4
 2. Support for Synology DSM 6.x and Synology DSM 7.x
